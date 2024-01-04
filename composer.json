@@ -20,7 +20,7 @@
         "symfony/dependency-injection": "^6.3 || ^7.0",
         "symfony/yaml": "6.*",
         "doctrine/mongodb-odm": "^2.3",
-        "symfony/http-kernel": "^6.4"
+        "symfony/http-kernel": "^6"
     },
     "scripts": {
         "test": "./vendor/bin/phpunit"
